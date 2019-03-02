@@ -42,4 +42,4 @@ function molChange() {
 
 }
 
-setInterval(molChange,1000);
+setInterval(molChange,600);
